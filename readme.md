@@ -4,14 +4,20 @@
 
 * Technologies used: MEAN stack, Mongo, Express, Angular, Node, HTML, CSS, Javascript, jQuery, Passport, Heroku, Google maps, Oauth2 and git.
 
-
 #Wireframes
 ![wireframe](loadpage.png)
+---------------------------------
 ![wireframe](loggedin.png)
+---------------------------------
 ![wireframe](reportsidewalk.png)
+---------------------------------
 ![wireframe](yoursidewalks.png)
+---------------------------------
 ![wireframe](allsidewalk.png)
+---------------------------------
 ![wireframe](sidewalkcomment.png)
+---------------------------------
 
 #ERD
 ![erd](erd.png)  
+---------------------------------
