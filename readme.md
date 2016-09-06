@@ -21,3 +21,9 @@
 #ERD
 ![erd](erd.png)  
 ---------------------------------
+
+#WalkImprove API
+[API repo](https://github.com/matthewbrozen/walkimproveapi)
+
+#WalkImprove Front End Repo
+[front end repo](https://github.com/matthewbrozen/walkimprovefrontend)
